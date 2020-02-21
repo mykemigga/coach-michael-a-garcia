@@ -3,7 +3,7 @@
 (bio
   #:first-name  “Michael"
   #:profile-pic (square 40 ‘solid 'red)
-  #:coach-story “Once you get people laughing, they are listening and you can tell them almost anything.
+  #:coach-story “Once you get people laughing, they are listening and you can tell them almost anything."
 When I was younger,
 growing up in a household with two languages made for an interesting perspective of the way I spoke to others.
 Respect followed, of course as my parented demanded I rely not solely on brute strength,
