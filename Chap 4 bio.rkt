@@ -18,4 +18,4 @@ Context, where there are pieces to a story that haven't had a chance to show the
 just yet.
 Public speaking is not simply speaking in public, it is having a voice and a message to deliver to the ears and hearts of those with capacity to listen and understand.
 Now, with the addition of the internet,
-the entire world is a stage and I am under it's spotlight.")
+we can be connected by the stories we carry and how well they are recieved with other people, once again.")
